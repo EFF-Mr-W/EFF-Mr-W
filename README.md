@@ -1,16 +1,19 @@
-### Hi there 👋
+# Mr.W
 
-<!--
-**GDMRW/GDMRW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hi, This is Mr.W，a lurker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Freedom of speech
+
+Article 19 of the Universal Declaration of Human Rights (UDHR)： Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.  
+<https://https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+
+### Languages
+
+I can speak Chinese, Cantonese and English.
+
+## Find Me
+Homepage: 
+Blog: <https://>  
+
