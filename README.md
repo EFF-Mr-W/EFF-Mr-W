@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, This is Mr.W，a lurker.
+Hi, This is Mr.W,a lurker.
 
 ### Freedom of speech
 
