@@ -13,7 +13,6 @@ Article 19 of the Universal Declaration of Human Rights (UDHR)： Everyone has t
 
 I can speak Chinese, Cantonese and English.
 
-## Find Me
-Homepage: 
-Blog: <https://>  
+## Contact Me
+effmrw@proton.me
 
